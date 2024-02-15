@@ -2,7 +2,7 @@
 
 
 About Me:
-* 💻 I'm a Data Analyst in Berlin, currently focusing on Machine Learning.
+* 💻 Data Analyst in Berlin.
 * ⚡ Fun fact: Around 7 years old, I taught myself the Russian alphabet so I could sing karaoke in Russian on my DVD.
 
 
